@@ -14,7 +14,7 @@
 <script>
 /*
   날짜 : 2023/11/09
-  이름 : 김철학
+  이름 : 강원빈
   내용 : Ch04. Composition API
 
   Vue 프로젝트 생성   
